@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/course_directory/static/css/main.cce71042.css",
+    "main.js": "/course_directory/static/js/main.1c116b98.js",
+    "index.html": "/course_directory/index.html",
+    "main.cce71042.css.map": "/course_directory/static/css/main.cce71042.css.map",
+    "main.1c116b98.js.map": "/course_directory/static/js/main.1c116b98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce71042.css",
+    "static/js/main.1c116b98.js"
+  ]
+}
